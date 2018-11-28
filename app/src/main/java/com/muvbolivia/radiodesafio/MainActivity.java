@@ -172,7 +172,7 @@ public class MainActivity extends AppCompatActivity {
         if (id == R.id.compartir) {
             Intent sharingIntent = new Intent(android.content.Intent.ACTION_SEND);
             sharingIntent.setType("text/plain");
-            String shareBody = "Estoy escuchando Radio Desafío en vivo desde la app para Android";
+            String shareBody = "Estoy escuchando Radio Desafío en vivo desde la app para Android https://tinyurl.com/yahfxh6q";
             sharingIntent.putExtra(android.content.Intent.EXTRA_SUBJECT, "Radio Desafío 103.0 FM");
             sharingIntent.putExtra(android.content.Intent.EXTRA_TEXT, shareBody);
             startActivity(Intent.createChooser(sharingIntent, "Compartir en"));

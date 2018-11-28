@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "796670545554",
+    "firebase_url": "https://radiodesafio-muvbolivia.firebaseio.com",
+    "project_id": "radiodesafio-muvbolivia",
+    "storage_bucket": "radiodesafio-muvbolivia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796670545554:android:05f3b986934004ea",
+        "android_client_info": {
+          "package_name": "com.muvbolivia.radiodesafio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796670545554-5o88a654ffj3q7jium5184meckn643jv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muvbolivia.radiodesafio",
+            "certificate_hash": "faa0217861279f1c59f4ed9837de58098a21d29b"
+          }
+        },
+        {
+          "client_id": "796670545554-dahjq7lmkjqpo18232dg8pks562o7crp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIgqoHNv3ucEL-RoQKDAiA7rsKkvWe_9M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796670545554-dahjq7lmkjqpo18232dg8pks562o7crp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
